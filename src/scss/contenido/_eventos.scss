@@ -1,0 +1,14 @@
+
+.eventos{
+    .card{
+        img{
+            border-radius: .5rem;
+        }
+        &:hover {
+            cursor: pointer;
+        }
+        .fecha{
+            color: #877457;
+        }
+    }
+}
